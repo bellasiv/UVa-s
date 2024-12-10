@@ -1,0 +1,5 @@
+# Ignore specific files
+input.txt
+output
+comparer.txt
+a.exe
